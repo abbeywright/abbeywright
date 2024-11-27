@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abbeywright
-- 👀 I’m interested in ... graphic design, UX/UI, traveling/hikinh, horror
+- 👀 I’m interested in ... graphic design, UX/UI, traveling, hiking, horror, and art
 - 🌱 I’m currently learning ...UX/UI & coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
