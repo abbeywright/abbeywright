@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @abbeywright
 - 👀 I’m interested in ... graphic design, UX/UI, traveling, hiking, horror, and art
 - 🌱 I’m currently learning ...UX/UI & coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ... design and coding!
+- 📫 How to reach me ... ig: @ablaurbelle
 - 😄 Pronouns: ...she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... 
 
 <!---
 abbeywright/abbeywright is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
